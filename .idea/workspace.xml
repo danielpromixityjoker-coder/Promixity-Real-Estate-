@@ -7,9 +7,8 @@
     <list default="true" id="70975d0b-8c72-4704-9da3-24025ccc78d9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/agents.html" beforeDir="false" afterPath="$PROJECT_DIR$/agents.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/properties.html" beforeDir="false" afterPath="$PROJECT_DIR$/properties.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +31,7 @@
     &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
@@ -86,6 +86,9 @@
       <workItem from="1769770355773" duration="17000" />
       <workItem from="1769853273817" duration="1158000" />
       <workItem from="1770095979081" duration="175000" />
+      <workItem from="1770098697067" duration="229000" />
+      <workItem from="1770099100783" duration="592000" />
+      <workItem from="1770100059291" duration="267000" />
     </task>
     <servers />
   </component>
